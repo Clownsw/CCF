@@ -1,0 +1,82 @@
+<map id="src/apps/external_executor/executor_auth_policy.h" name="src/apps/external_executor/executor_auth_policy.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3481,5,3679,47"/>
+<area shape="rect" id="node2" href="$app__interface_8h.html" title=" " alt="" coords="3507,95,3653,121"/>
+<area shape="rect" id="node64" href="$common__auth__policies_8h.html" title=" " alt="" coords="4930,415,5137,442"/>
+<area shape="rect" id="node71" href="$executor__code__id_8h.html" title=" " alt="" coords="2145,415,2292,442"/>
+<area shape="rect" id="node3" href="$actors_8h.html" title=" " alt="" coords="5205,773,5302,799"/>
+<area shape="rect" id="node6" href="$ccf__deprecated_8h.html" title=" " alt="" coords="2714,594,2870,621"/>
+<area shape="rect" id="node7" href="$common__endpoint__registry_8h.html" title=" " alt="" coords="3329,169,3495,211"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1255,1093,1318,1120"/>
+<area shape="rect" id="node22" title=" " alt="" coords="4489,944,4567,971"/>
+<area shape="rect" id="node52" href="$node__context_8h.html" title=" " alt="" coords="3507,333,3653,360"/>
+<area shape="rect" id="node63" href="$js__plugin_8h.html" title=" " alt="" coords="4641,862,4756,889"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5185,862,5252,889"/>
+<area shape="rect" id="node5" title=" " alt="" coords="3941,1093,4000,1120"/>
+<area shape="rect" id="node8" href="$base__endpoint__registry_8h.html" title=" " alt="" coords="3126,259,3333,285"/>
+<area shape="rect" id="node9" href="$pem_8h.html" title=" " alt="" coords="4233,773,4364,799"/>
+<area shape="rect" id="node24" href="$quote__info_8h.html" title=" " alt="" coords="1967,594,2113,621"/>
+<area shape="rect" id="node25" href="$endpoint__metrics_8h.html" title=" " alt="" coords="1489,773,1660,799"/>
+<area shape="rect" id="node26" href="$endpoint__registry_8h.html" title=" " alt="" coords="3145,333,3314,360"/>
+<area shape="rect" id="node62" href="$tx__status_8h.html" title=" " alt="" coords="2951,683,3068,710"/>
+<area shape="rect" id="node10" href="$json_8h.html" title=" " alt="" coords="2589,862,2691,889"/>
+<area shape="rect" id="node16" title=" " alt="" coords="5061,1093,5158,1120"/>
+<area shape="rect" id="node20" title=" " alt="" coords="4135,862,4201,889"/>
+<area shape="rect" id="node21" title=" " alt="" coords="4226,862,4313,889"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3060,862,3113,889"/>
+<area shape="rect" id="node11" href="$include_2ccf_2crypto_2base64_8h.html" title=" " alt="" coords="2164,1019,2313,1045"/>
+<area shape="rect" id="node13" href="$include_2ccf_2ds_2json__schema_8h.html" title=" " alt="" coords="2490,944,2651,971"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2761,1019,2866,1045"/>
+<area shape="rect" id="node19" title=" " alt="" coords="2777,944,2852,971"/>
+<area shape="rect" id="node14" href="$nonstd_8h.html" title=" " alt="" coords="2439,1019,2559,1045"/>
+<area shape="rect" id="node18" title=" " alt="" coords="3188,1019,3335,1045"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2373,1093,2429,1120"/>
+<area shape="rect" id="node27" href="$include_2ccf_2endpoint_8h.html" title=" " alt="" coords="3529,415,3644,442"/>
+<area shape="rect" id="node28" href="$endpoint__context_8h.html" title=" " alt="" coords="4287,505,4457,531"/>
+<area shape="rect" id="node30" href="$tx_8h.html" title=" " alt="" coords="3561,683,3631,710"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2175,944,2262,971"/>
+<area shape="rect" id="node50" href="$locking_8h.html" title=" " alt="" coords="3047,415,3175,442"/>
+<area shape="rect" id="node51" title=" " alt="" coords="3300,505,3343,531"/>
+<area shape="rect" id="node38" href="$service_2map_8h.html" title=" " alt="" coords="2189,594,2326,621"/>
+<area shape="rect" id="node29" href="$authentication__types_8h.html" title=" " alt="" coords="4690,587,4897,628"/>
+<area shape="rect" id="node31" href="$ccf__assert_8h.html" title=" " alt="" coords="3668,773,3791,799"/>
+<area shape="rect" id="node32" href="$sha256__hash_8h.html" title=" " alt="" coords="2839,773,3025,799"/>
+<area shape="rect" id="node33" href="$tx__id_8h.html" title=" " alt="" coords="4069,773,4158,799"/>
+<area shape="rect" id="node34" title=" " alt="" coords="3508,862,3583,889"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1567,862,1609,889"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1132,862,1183,889"/>
+<area shape="rect" id="node39" href="$kv_2map_8h.html" title=" " alt="" coords="1785,683,1892,710"/>
+<area shape="rect" id="node46" href="$set_8h.html" title=" " alt="" coords="2054,683,2151,710"/>
+<area shape="rect" id="node48" href="$value_8h.html" title=" " alt="" coords="1917,683,2030,710"/>
+<area shape="rect" id="node40" href="$get__name_8h.html" title=" " alt="" coords="819,773,962,799"/>
+<area shape="rect" id="node41" href="$include_2ccf_2kv_2hooks_8h.html" title=" " alt="" coords="2161,862,2277,889"/>
+<area shape="rect" id="node42" href="$map__handle_8h.html" title=" " alt="" coords="347,773,504,799"/>
+<area shape="rect" id="node43" href="$blit__serialiser_8h.html" title=" " alt="" coords="1207,855,1339,896"/>
+<area shape="rect" id="node44" href="$json__serialiser_8h.html" title=" " alt="" coords="1837,765,1969,807"/>
+<area shape="rect" id="node45" href="$untyped_8h.html" title=" " alt="" coords="1993,773,2124,799"/>
+<area shape="rect" id="node47" href="$set__handle_8h.html" title=" " alt="" coords="986,773,1134,799"/>
+<area shape="rect" id="node49" href="$value__handle_8h.html" title=" " alt="" coords="579,773,743,799"/>
+<area shape="rect" id="node53" href="$historical__queries__interface_8h.html" title=" " alt="" coords="4001,497,4161,539"/>
+<area shape="rect" id="node55" href="$node__subsystem__interface_8h.html" title=" " alt="" coords="3863,587,4017,628"/>
+<area shape="rect" id="node60" href="$indexer__interface_8h.html" title=" " alt="" coords="3351,408,3505,449"/>
+<area shape="rect" id="node54" href="$read__only__store_8h.html" title=" " alt="" coords="3657,594,3839,621"/>
+<area shape="rect" id="node56" href="$include_2ccf_2receipt_8h.html" title=" " alt="" coords="3655,683,3758,710"/>
+<area shape="rect" id="node58" href="$seq__no__collection_8h.html" title=" " alt="" coords="3985,683,4159,710"/>
+<area shape="rect" id="node59" title=" " alt="" coords="4244,594,4311,621"/>
+<area shape="rect" id="node57" href="$entity__id_8h.html" title=" " alt="" coords="3225,773,3340,799"/>
+<area shape="rect" id="node61" href="$strategy_8h.html" title=" " alt="" coords="3469,505,3638,531"/>
+<area shape="rect" id="node65" href="$cert__auth_8h.html" title=" " alt="" coords="4583,497,4790,539"/>
+<area shape="rect" id="node66" href="$empty__auth_8h.html" title=" " alt="" coords="4814,497,5021,539"/>
+<area shape="rect" id="node67" href="$jwt__auth_8h.html" title=" " alt="" coords="5045,497,5251,539"/>
+<area shape="rect" id="node68" href="$sig__auth_8h.html" title=" " alt="" coords="3770,497,3977,539"/>
+<area shape="rect" id="node69" href="$signed__req_8h.html" title=" " alt="" coords="2503,676,2641,717"/>
+<area shape="rect" id="node70" href="$md__type_8h.html" title=" " alt="" coords="2503,773,2662,799"/>
+<area shape="rect" id="node72" href="$quote_8h.html" title=" " alt="" coords="2415,505,2545,531"/>
+<area shape="rect" id="node73" href="$code__digest_8h.html" title=" " alt="" coords="2351,594,2537,621"/>
+<area shape="rect" id="node77" href="$code__id_8h.html" title=" " alt="" coords="2204,497,2340,539"/>
+<area shape="rect" id="node78" href="$grpc__status_8h.html" title=" " alt="" coords="3415,773,3593,799"/>
+<area shape="rect" id="node80" title=" " alt="" coords="1836,505,2028,531"/>
+<area shape="rect" id="node74" href="$hex_8h.html" title=" " alt="" coords="3050,773,3150,799"/>
+<area shape="rect" id="node75" href="$attestation__sev__snp_8h.html" title=" " alt="" coords="297,676,437,717"/>
+<area shape="rect" id="node76" href="$attestation__sev__snp__endorsements_8h.html" title=" " alt="" coords="1311,765,1465,807"/>
+<area shape="rect" id="node79" title=" " alt="" coords="3338,862,3433,889"/>
+</map>
